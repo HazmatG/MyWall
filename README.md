@@ -1,5 +1,5 @@
 # MyWall
-MyWall is a perfect alternative for blog app
+MyWall is a perfect alternative for any blog app. Create and Store your blogs with =MyWall=. Created with Flutter/Dart and Firebase
 
 # Tech Used
 ## Frontend
